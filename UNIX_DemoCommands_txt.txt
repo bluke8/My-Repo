@@ -1,0 +1,84 @@
+  916  pwd
+  917  ls
+  918  ls -a
+  919  ls -l
+  920  ls
+  921  ls -al
+  922  cd repos
+  923  ls
+  924  cd ..
+  925  ls
+  926  mkdir AdvJavaRepo
+  927  ls
+  928  cd repos
+  929  ls
+  930  mkdir AdvJavaRepo
+  931  cd AdvJavaRepo
+  932  touch file1.txt
+  933  ls
+  934  vim file1.txt
+  935  ls
+  936  vim file1.txt
+  937  vim file1.txt
+  938  date
+  939  echo "today is `date`"
+  940  echo 'today is `date`'
+  941  cd repos
+  942  pwd
+  943  ls
+  944  mkdir UNIX_Practice
+  945  ls
+  946  cd UNIX_Practice
+  947  touch file1.txt
+  948  vim file.txt
+  949  ls
+  950  rm file.txt
+  951  ls
+  952  vim file1.txt
+  953  ls
+  954  echo file1.txt
+  955  cat file1.txt > file2.txt
+  956  ls
+  957  vim file2.txt
+  958  mkdir dir1
+  959  ls -la
+  960  cp file1.txt dir1/
+  961  ls
+  962  cd dir1
+  963  ls
+  964  vim file1.txt
+  965  mv file1.txt file2.txt
+  966  ls
+  967  mkdir dir2
+  968  cp file2.txt file3.txt
+  969  ls
+  970  rm file2.txt
+  971  ls
+  972  cp file3.txt dir2/
+  973  ls
+  974  cd dir2
+  975  ls
+  976  cd ..
+  977  cd ..
+  978  mkdir dir3
+  979  rmdir dir3/
+  980  ls
+  981  rmdir dir2/
+  982  rmdir dir1/
+  983  echo dir1/
+  984  rm -r dir1/
+  985  ls
+  986  clear
+  987  history
+  988  history -50
+  989  favcolor=purple
+  990  echo $favcolor
+  991  secondfavcolor=   blue
+  992  secondfavcolor= blue
+  993  secondfavcolor=blu    e
+  994  secondfavcolor=blue
+  995  history -100
+  996  history -50
+  997  cd ..
+  998  cd UNIX_Practice
+  999  ls -la
